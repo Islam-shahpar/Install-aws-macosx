@@ -1,0 +1,7 @@
+To change the prompt of terminal:
+
+open terminal
+nano .bash_profile or nano .bashrc
+export PS1="$ "
+save the file
+close the file
